@@ -1,0 +1,146 @@
+body{
+ 
+margin:0;
+padding:0;
+font-family:Helvetica,Arial;
+background-color:#ECFDCE;
+
+}
+#logo{
+	width: 300px;
+
+}
+#home{
+	border-style:dotted;
+	border-radius:12px;
+    border-color:#B5F641;
+	margin-left:95%;
+	
+}
+/*bar*/
+header{
+    background-color: #35470D;
+    height: 8%;
+    background-size: cover;
+    background-position: center;
+}
+.bar a{
+float: left;
+color: white;
+text-align:center;
+padding:20px 70px;
+text-decoration: none;
+font-size: 17px;
+}
+.bar a:hover {
+  background-color:#ECFDCE;
+  color: black;
+}
+
+  /*bar*/
+#title{
+	padding:10px;
+	background-color:#ffffff;
+	border-style: dotted;
+	border-radius: 12px;
+    border-color: #B5F641;
+	margin-left:190px;
+	margin-right:90px;
+	font-family:Helvetica,Arial;
+	color:#9DC149;
+	
+}
+.contant{
+	padding:10px;
+	margin-bottom:250px;
+	margin-left:190px;
+	margin-right:90px;
+	border:#FFFFFF;
+	background:#FFFFFF;
+	
+}
+.content2
+{
+	padding:10px;
+	margin-bottom:250px;
+	margin-left:70px;
+	margin-right:90px;
+	border:#ECFDCE;
+	background:#ECFDCE;
+	
+}	
+#p1{
+	
+	line-height:140%;
+	margin-bottom:250px;
+	margin-left:190px;
+	margin-right:190px;
+	font-family:Helvetica,Arial;
+	color:#35470D  ;
+	float:right;
+	text-align: justify;
+
+}
+
+	
+#img7{
+
+  border:10px solid #ffffff;
+  border-radius: 10px;
+  padding: 5px;
+  width: 150px;
+  float:middle;
+}
+
+#imge1{
+	float:right;
+	
+}
+#imge2{
+	float:right;
+}
+#imge3{
+	float:right;
+}
+#imge4{
+	float:right;
+}
+#imge5{
+	float:right;
+}
+#imge6{
+	float:right;
+}
+#links{
+padding:10px;
+}
+#reset{
+	margin-right:30px;
+	background-color:white;
+	border: 2px dotted:#ECFDCE;
+	color: #B5F641;
+	font-size: 1em;
+	padding:10px;
+}
+#reset:hover{
+		background:#B5F641;
+	    color:white;
+}
+#calculate{
+	margin-right:30px;
+	background-color:white;
+	border: 2px dotted:#ECFDCE;
+	color: #B5F641;
+	font-size: 1em;
+	padding:10px;
+}
+#calculate:hover{
+		background:#B5F641;
+	    color:white;
+}
+
+.tt{
+	border-style:dotted;
+	border-radius:12px;
+    border-color:#9DC149;
+}

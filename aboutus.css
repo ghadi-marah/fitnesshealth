@@ -1,0 +1,51 @@
+body{
+ 
+margin:0;
+padding:0;
+font-family:Helvetica,Arial;
+background-color:#ECFDCE;
+
+}
+#logo{
+	width: 300px;
+
+}
+#home{
+	border-style:dotted;
+	border-radius:12px;
+    border-color:#B5F641;
+	margin-left:95%;
+	
+}
+/*bar*/
+header{
+    background-color: #35470D;
+    height: 8%;
+    background-size: cover;
+    background-position: center;
+}
+.bar a{
+float: left;
+color: white;
+text-align:center;
+padding:20px 70px;
+text-decoration: none;
+font-size: 17px;
+}
+.bar a:hover {
+  background-color:#ECFDCE;
+  color: black;
+}
+
+  /*bar*/
+.header {
+ 
+  padding: 60px;
+  text-align: center;
+  background: #9DC149;
+  color: white;
+  font-size: 30px;
+}
+#links{
+padding:10px;
+}
